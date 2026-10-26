@@ -1,6 +1,6 @@
 # 📂 business
 
-> 209 skills in this category
+> 210 skills in this category
 
 | Skill | Author | Stars | Quality | Level | Description |
 |-------|--------|-------|---------|-------|-------------|
@@ -91,6 +91,7 @@
 | [content-creator](content-creator/) | sickn33 | ★ 15.4k | 98% | L3 | Create SEO-optimized marketing content with consistent brand voice. Includes bra… |
 | [competitor-alternatives](competitor-alternatives/) | sickn33 | ★ 15.4k | 95% | L2 | When the user wants to create competitor comparison or alternative pages for SEO… |
 | [billing-automation](billing-automation/) | sickn33 | ★ 15.4k | 88% | L2 | Build automated billing systems for recurring payments, invoicing, subscription … |
+| [ecommerce-growth-strategy](ecommerce-growth-strategy/) | nexscope-ai | ★ 1.3k | 95% | L2 | E-commerce growth strategy advisor. Diagnoses current business health using unit… |
 | [ai-marketing-engineering](ai-marketing-engineering/) | majiayu000 | ★ 97 | 80% | L2 | AI-powered marketing engineering skill based on Alon Huri's framework. Transform… |
 | [agent-quant-analyst](agent-quant-analyst/) | majiayu000 | ★ 95 | 64% | L2 | Expert quantitative analyst specializing in financial modeling, algorithmic trad… |
 | [agent-sales-engineer](agent-sales-engineer/) | majiayu000 | ★ 95 | 64% | L2 | Expert sales engineer specializing in technical pre-sales, solution architecture… |
