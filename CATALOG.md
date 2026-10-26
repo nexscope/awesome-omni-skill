@@ -5961,6 +5961,7 @@
 | [EchoKit Config Generator](skills/data-ai/echokit-config-generator/) | data-ai | second-state | ★ 0 |
 | [echtpost-automation](skills/tools/echtpost-automation/) | tools | ComposioHQ | ★ 37.3k |
 | [ecommerce-competitor-analyzer](skills/backend/ecommerce-competitor-analyzer/) | backend | buluslan | ★ 0 |
+| [ecommerce-growth-strategy](skills/business/ecommerce-growth-strategy/) | business | nexscope-ai | ★ 1.3k |
 | [economic-calendar-fetcher](skills/data-ai/economic-calendar-fetcher/) | data-ai | tradermonty | ★ 0 |
 | [ecosystem-guide](skills/tools/ecosystem-guide/) | tools | majiayu000 | ★ 0 |
 | [ecosystem-patterns](skills/devops/ecosystem-patterns/) | devops | delorenj | ★ 0 |
